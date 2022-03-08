@@ -10,4 +10,4 @@ Setting up your development environment:
 
 This widget is configured for demonstration purposes. For production usage, make edits according to the shape of your customer data for accurate results. 
 
-![Notes Example Screenshot](./static/crm.png)
+![Notes Example Screenshot](./static/notes.png)
